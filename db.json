@@ -410,7 +410,7 @@
       "stock": 1000,
       "isFlashSale": true,
       "bestSelling": false,
-      "isNew": true,
+      "isNew": false,
       "discount": 20
     },
     {
@@ -759,7 +759,7 @@
       "ratings": 4,
       "reviewCount": 180,
       "stock": 50,
-      "isFlashSale": true,
+      "isFlashSale": false,
       "bestSelling": false,
       "isNew": false
     },
