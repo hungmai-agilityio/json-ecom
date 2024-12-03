@@ -156,7 +156,7 @@
       "name": "Noise Cancelling Headphones",
       "price": 150,
       "description": "High-quality headphones with active noise cancellation.",
-      "category": "headPhone",
+      "category": "headPhones",
       "colors": [
         "Black",
         "White"
@@ -790,7 +790,7 @@
       "price": 255,
       "originalPrice": 300,
       "description": "Apple AirPods Pro 2nd Gen with active noise cancellation and spatial audio.",
-      "category": "headPhone",
+      "category": "headPhones",
       "colors": [
         "White"
       ],
@@ -811,7 +811,7 @@
       "name": "Sony WH-1000XM5",
       "price": 350,
       "description": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones with exceptional sound quality.",
-      "category": "headPhone",
+      "category": "headPhones",
       "colors": [
         "Black",
         "Silver"
@@ -832,7 +832,7 @@
       "name": "Bose QuietComfort 45",
       "price": 330,
       "description": "Bose QuietComfort 45 with world-class noise cancellation and great sound quality.",
-      "category": "headPhone",
+      "category": "headPhones",
       "colors": [
         "Red",
         "Blue"
@@ -853,7 +853,7 @@
       "name": "Beats Studio3 Wireless",
       "price": 100,
       "description": "Beats Studio3 Wireless Headphones with Pure Adaptive Noise Cancelling (Pure ANC).",
-      "category": "headPhone",
+      "category": "headPhones",
       "colors": [
         "Black",
         "Red",
@@ -876,7 +876,7 @@
       "name": "Sennheiser Momentum 3",
       "price": 450,
       "description": "Sennheiser Momentum 3 with NoiseGard Hybrid technology and great sound clarity.",
-      "category": "headPhone",
+      "category": "headPhones",
       "colors": [
         "Black"
       ],
@@ -1120,7 +1120,7 @@
     {
       "id": "i7g6i45628f89-123jf-6j2f7j37211",
       "title": "headPhones",
-      "image": "https://i.ibb.co/n31mbmw/headphone.png"
+      "image": "https://i.ibb.co/n31mbmw/headPhone.png"
     },
     {
       "id": "i7g6i9i2-8f89-6h15-9i2653329-1j2f7j85f1",
