@@ -1138,7 +1138,37 @@
       "image": "https://i.ibb.co/ygqJ8Sj/shoes.png"
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "firstName": "John",
+      "email": "test@gmail.com",
+      "password": "$2a$10$Ai8Q3CtNrOJyWB7mt9D/UeLweH2ZcVyD0fI4w1X5zcKEnjQt3AYNi",
+      "id": "6bad1187-feb4-4dec-9fc7-181fd3ee079d",
+      "lastName": "Wick",
+      "avatar": "",
+      "address": [
+        {
+          "id": "887dc3b4-1fe8-449e-9c65-5957ecee9102",
+          "street": "12 Hùng Vương",
+          "city": "ĐÀ NẴNG",
+          "apartment": "NEW APART",
+          "phone": "0764886708",
+          "company": "EXAM",
+          "isDefault": true
+        },
+        {
+          "id": "542b5407-660b-49f9-b53d-0d671afd4ebc",
+          "street": "quận 1",
+          "city": "HCM city.",
+          "apartment": "villa 12",
+          "phone": "5669412108",
+          "isDefault": false
+        }
+      ],
+      "created_at": "2024-12-12T02:09:11.061Z",
+      "updated_at": "2024-12-12T02:10:25.063Z"
+    }
+  ],
   "cart": [],
   "wishlist": []
 }
