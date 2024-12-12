@@ -223,9 +223,10 @@
       "ratings": 4,
       "reviewCount": 350,
       "stock": 1200,
-      "isFlashSale": false,
+      "isFlashSale": true,
       "bestSelling": false,
-      "isNew": false
+      "isNew": false,
+      "discount": 15
     },
     {
       "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6d2",
@@ -262,10 +263,11 @@
       "price": 350,
       "originalPrice": 400,
       "description": "Great mid-range phone with solid features for daily use.",
-      "category": "phone",
+      "category": "phones",
       "colors": [
         "Gray",
-        "Blue"
+        "Blue", 
+        "Brown"
       ],
       "sizes": [
         "128 GB",
