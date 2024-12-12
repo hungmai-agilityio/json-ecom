@@ -223,10 +223,9 @@
       "ratings": 4,
       "reviewCount": 350,
       "stock": 1200,
-      "isFlashSale": true,
+      "isFlashSale": false,
       "bestSelling": false,
-      "isNew": false,
-      "discount": 15
+      "isNew": false
     },
     {
       "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6d2",
