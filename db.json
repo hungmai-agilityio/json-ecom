@@ -5,7 +5,7 @@
       "name": "Laptop Ultra 15",
       "price": 1000,
       "description": "Sleek and portable laptop with powerful specs.",
-      "category": "computer",
+      "category": "computers",
       "colors": [
         "Silver",
         "Black"
@@ -59,7 +59,7 @@
       "name": "Smartphone 15",
       "price": 1100,
       "description": "A high-performance smartphone with an amazing camera.",
-      "category": "phone",
+      "category": "phones",
       "colors": [
         "Black",
         "Gray"
@@ -108,7 +108,7 @@
       "price": 800,
       "originalPrice": 1000,
       "description": "Enjoy 4K streaming with a smart interface.",
-      "category": "computer",
+      "category": "computers",
       "colors": [
         "Black"
       ],
@@ -156,7 +156,7 @@
       "name": "Noise Cancelling Headphones",
       "price": 150,
       "description": "High-quality headphones with active noise cancellation.",
-      "category": "headPhone",
+      "category": "headPhones",
       "colors": [
         "Black",
         "White"
@@ -205,7 +205,7 @@
       "price": 255,
       "originalPrice": 300,
       "description": "Affordable smartphone with great camera and performance.",
-      "category": "phone",
+      "category": "phones",
       "colors": [
         "Black",
         "Blue"
@@ -234,7 +234,7 @@
       "price": 800,
       "originalPrice": 900,
       "description": "Flagship phone with top-of-the-line performance and display.",
-      "category": "phone",
+      "category": "phones",
       "colors": [
         "Black",
         "Gray"
@@ -263,7 +263,7 @@
       "price": 350,
       "originalPrice": 400,
       "description": "Great mid-range phone with solid features for daily use.",
-      "category": "phone",
+      "category": "phones",
       "colors": [
         "Gray",
         "Blue"
@@ -291,7 +291,7 @@
       "name": "Oppo-1",
       "price": 200,
       "description": "Budget smartphone with decent features for everyday tasks.",
-      "category": "phone",
+      "category": "phones",
       "colors": [
         "Black",
         "Yellow"
@@ -317,7 +317,7 @@
       "price": 280,
       "originalPrice": 350,
       "description": "Slightly upgraded model with better camera and display.",
-      "category": "phone",
+      "category": "phones",
       "colors": [
         "Yellow",
         "Black"
@@ -594,7 +594,7 @@
       "name": "Gaming PC Pro X",
       "price": 2000,
       "description": "High-performance gaming PC with powerful graphics and processor for top-tier gaming experiences.",
-      "category": "computer",
+      "category": "computers",
       "colors": [
         "Black"
       ],
@@ -615,7 +615,7 @@
       "price": 1350,
       "originalPrice": 1500,
       "description": "Powerful workstation for professionals with a fast processor and ample RAM for heavy multitasking.",
-      "category": "computer",
+      "category": "computers",
       "colors": [
         "White"
       ],
@@ -637,7 +637,7 @@
       "price": 2200,
       "originalPrice": 2500,
       "description": "Custom-built PC designed for gamers and creators, equipped with the latest hardware.",
-      "category": "computer",
+      "category": "computers",
       "colors": [
         "Black"
       ],
@@ -659,7 +659,7 @@
       "name": "UltraWide Monitor 34",
       "price": 600,
       "description": "34-inch ultra-wide monitor with 144Hz refresh rate, ideal for gaming and multitasking.",
-      "category": "computer",
+      "category": "computers",
       "colors": [
         "Black"
       ],
@@ -682,7 +682,7 @@
       "name": "4K Gaming Monitor 27",
       "price": 300,
       "description": "27-inch 4K monitor with excellent color accuracy and fast response time, perfect for gaming.",
-      "category": "computer",
+      "category": "computers",
       "colors": [
         "Black"
       ],
@@ -706,7 +706,7 @@
       "name": "Mechanical Gaming Keyboard",
       "price": 120,
       "description": "RGB mechanical gaming keyboard with responsive switches and customizable lighting.",
-      "category": "computer",
+      "category": "computers",
       "colors": [
         "Black"
       ],
@@ -726,7 +726,7 @@
       "name": "Wireless Gaming Mouse",
       "price": 50,
       "description": "Wireless gaming mouse with customizable DPI and RGB lighting.",
-      "category": "computer",
+      "category": "computers",
       "colors": [
         "Black",
         "White"
@@ -747,7 +747,7 @@
       "name": "Water Cooling System",
       "price": 200,
       "description": "High-performance water cooling system for keeping your gaming PC cool under load.",
-      "category": "computer",
+      "category": "computers",
       "colors": [
         "Black",
         "White"
@@ -768,7 +768,7 @@
       "name": "Mechanical Gaming K90",
       "price": 120,
       "description": "RGB mechanical gaming keyboard with responsive switches and customizable lighting.",
-      "category": "computer",
+      "category": "computers",
       "colors": [
         "Black",
         "Gray"
@@ -790,7 +790,7 @@
       "price": 255,
       "originalPrice": 300,
       "description": "Apple AirPods Pro 2nd Gen with active noise cancellation and spatial audio.",
-      "category": "headPhone",
+      "category": "headPhones",
       "colors": [
         "White"
       ],
@@ -811,7 +811,7 @@
       "name": "Sony WH-1000XM5",
       "price": 350,
       "description": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones with exceptional sound quality.",
-      "category": "headPhone",
+      "category": "headPhones",
       "colors": [
         "Black",
         "Silver"
@@ -832,7 +832,7 @@
       "name": "Bose QuietComfort 45",
       "price": 330,
       "description": "Bose QuietComfort 45 with world-class noise cancellation and great sound quality.",
-      "category": "headPhone",
+      "category": "headPhones",
       "colors": [
         "Red",
         "Blue"
@@ -853,7 +853,7 @@
       "name": "Beats Studio3 Wireless",
       "price": 100,
       "description": "Beats Studio3 Wireless Headphones with Pure Adaptive Noise Cancelling (Pure ANC).",
-      "category": "headPhone",
+      "category": "headPhones",
       "colors": [
         "Black",
         "Red",
@@ -876,7 +876,7 @@
       "name": "Sennheiser Momentum 3",
       "price": 450,
       "description": "Sennheiser Momentum 3 with NoiseGard Hybrid technology and great sound clarity.",
-      "category": "headPhone",
+      "category": "headPhones",
       "colors": [
         "Black"
       ],
@@ -993,7 +993,7 @@
       "name": "Nike Air Max 270",
       "price": 150,
       "description": "Nike Air Max 270 with responsive cushioning and bold, modern design.",
-      "category": "shoe",
+      "category": "shoes",
       "colors": [
         "Green",
         "Red"
@@ -1014,7 +1014,7 @@
       "name": "Adidas 22",
       "price": 180,
       "description": "Adidas 22 for maximum comfort and energy return with every step.",
-      "category": "shoe",
+      "category": "shoes",
       "colors": [
         "White",
         "Blue",
@@ -1037,7 +1037,7 @@
       "name": "Puma RS-X3",
       "price": 120,
       "description": "Puma RS-X3 sneakers, perfect blend of retro style and modern flair.",
-      "category": "shoe",
+      "category": "shoes",
       "colors": [
         "Red",
         "Black"
@@ -1058,7 +1058,7 @@
       "name": "Reebok Classic",
       "price": 90,
       "description": "Reebok Classic Leather with timeless design and comfortable fit.",
-      "category": "shoe",
+      "category": "shoes",
       "colors": [
         "Green",
         "Yellow"
@@ -1079,7 +1079,7 @@
       "name": "New Balance 990v5",
       "price": 105,
       "description": "New Balance 990v5, premium cushioning and support with an iconic design.",
-      "category": "shoe",
+      "category": "shoes",
       "colors": [
         "Blue",
         "Beige"
@@ -1099,12 +1099,12 @@
   "category": [
     {
       "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j37211",
-      "title": "phone",
+      "title": "phones",
       "image": "https://i.ibb.co/Z6f7PYW/cell-Phone.png"
     },
     {
       "id": "29g6i9i2-8f89-6h15-9i0e-6j2f7266337211",
-      "title": "computer",
+      "title": "computers",
       "image": "https://i.ibb.co/WsVyW5N/computer.png"
     },
     {
@@ -1119,7 +1119,7 @@
     },
     {
       "id": "i7g6i45628f89-123jf-6j2f7j37211",
-      "title": "headPhone",
+      "title": "headPhones",
       "image": "https://i.ibb.co/n31mbmw/headPhone.png"
     },
     {
@@ -1134,41 +1134,11 @@
     },
     {
       "id": "i7g6hun28f89-123jf6j2f-02057222",
-      "title": "shoe",
+      "title": "shoes",
       "image": "https://i.ibb.co/ygqJ8Sj/shoes.png"
     }
   ],
-  "users": [
-    {
-      "firstName": "John",
-      "email": "test@gmail.com",
-      "password": "$2a$10$Ai8Q3CtNrOJyWB7mt9D/UeLweH2ZcVyD0fI4w1X5zcKEnjQt3AYNi",
-      "id": "6bad1187-feb4-4dec-9fc7-181fd3ee079d",
-      "lastName": "Wick",
-      "avatar": "",
-      "address": [
-        {
-          "id": "887dc3b4-1fe8-449e-9c65-5957ecee9102",
-          "street": "12 Hùng Vương",
-          "city": "ĐÀ NẴNG",
-          "apartment": "NEW APART",
-          "phone": "0764886708",
-          "company": "EXAM",
-          "isDefault": true
-        },
-        {
-          "id": "542b5407-660b-49f9-b53d-0d671afd4ebc",
-          "street": "quận 1",
-          "city": "HCM city.",
-          "apartment": "villa 12",
-          "phone": "5669412108",
-          "isDefault": false
-        }
-      ],
-      "created_at": "2024-12-12T02:09:11.061Z",
-      "updated_at": "2024-12-12T02:10:25.063Z"
-    }
-  ],
+  "users": [],
   "cart": [],
   "wishlist": []
 }
