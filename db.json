@@ -5,7 +5,7 @@
       "name": "Laptop Ultra 15",
       "price": 1000,
       "description": "Sleek and portable laptop with powerful specs.",
-      "category": "computers",
+      "category": "computer",
       "colors": [
         "Silver",
         "Black"
@@ -108,7 +108,7 @@
       "price": 800,
       "originalPrice": 1000,
       "description": "Enjoy 4K streaming with a smart interface.",
-      "category": "computers",
+      "category": "computer",
       "colors": [
         "Black"
       ],
@@ -156,7 +156,7 @@
       "name": "Noise Cancelling Headphones",
       "price": 150,
       "description": "High-quality headphones with active noise cancellation.",
-      "category": "headPhones",
+      "category": "headPhone",
       "colors": [
         "Black",
         "White"
@@ -594,7 +594,7 @@
       "name": "Gaming PC Pro X",
       "price": 2000,
       "description": "High-performance gaming PC with powerful graphics and processor for top-tier gaming experiences.",
-      "category": "computers",
+      "category": "computer",
       "colors": [
         "Black"
       ],
@@ -615,7 +615,7 @@
       "price": 1350,
       "originalPrice": 1500,
       "description": "Powerful workstation for professionals with a fast processor and ample RAM for heavy multitasking.",
-      "category": "computers",
+      "category": "computer",
       "colors": [
         "White"
       ],
@@ -637,7 +637,7 @@
       "price": 2200,
       "originalPrice": 2500,
       "description": "Custom-built PC designed for gamers and creators, equipped with the latest hardware.",
-      "category": "computers",
+      "category": "computer",
       "colors": [
         "Black"
       ],
@@ -659,7 +659,7 @@
       "name": "UltraWide Monitor 34",
       "price": 600,
       "description": "34-inch ultra-wide monitor with 144Hz refresh rate, ideal for gaming and multitasking.",
-      "category": "computers",
+      "category": "computer",
       "colors": [
         "Black"
       ],
@@ -682,7 +682,7 @@
       "name": "4K Gaming Monitor 27",
       "price": 300,
       "description": "27-inch 4K monitor with excellent color accuracy and fast response time, perfect for gaming.",
-      "category": "computers",
+      "category": "computer",
       "colors": [
         "Black"
       ],
@@ -706,7 +706,7 @@
       "name": "Mechanical Gaming Keyboard",
       "price": 120,
       "description": "RGB mechanical gaming keyboard with responsive switches and customizable lighting.",
-      "category": "computers",
+      "category": "computer",
       "colors": [
         "Black"
       ],
@@ -726,7 +726,7 @@
       "name": "Wireless Gaming Mouse",
       "price": 50,
       "description": "Wireless gaming mouse with customizable DPI and RGB lighting.",
-      "category": "computers",
+      "category": "computer",
       "colors": [
         "Black",
         "White"
@@ -747,7 +747,7 @@
       "name": "Water Cooling System",
       "price": 200,
       "description": "High-performance water cooling system for keeping your gaming PC cool under load.",
-      "category": "computers",
+      "category": "computer",
       "colors": [
         "Black",
         "White"
@@ -768,7 +768,7 @@
       "name": "Mechanical Gaming K90",
       "price": 120,
       "description": "RGB mechanical gaming keyboard with responsive switches and customizable lighting.",
-      "category": "computers",
+      "category": "computer",
       "colors": [
         "Black",
         "Gray"
@@ -790,7 +790,7 @@
       "price": 255,
       "originalPrice": 300,
       "description": "Apple AirPods Pro 2nd Gen with active noise cancellation and spatial audio.",
-      "category": "headPhones",
+      "category": "headPhone",
       "colors": [
         "White"
       ],
@@ -811,7 +811,7 @@
       "name": "Sony WH-1000XM5",
       "price": 350,
       "description": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones with exceptional sound quality.",
-      "category": "headPhones",
+      "category": "headPhone",
       "colors": [
         "Black",
         "Silver"
@@ -832,7 +832,7 @@
       "name": "Bose QuietComfort 45",
       "price": 330,
       "description": "Bose QuietComfort 45 with world-class noise cancellation and great sound quality.",
-      "category": "headPhones",
+      "category": "headPhone",
       "colors": [
         "Red",
         "Blue"
@@ -853,7 +853,7 @@
       "name": "Beats Studio3 Wireless",
       "price": 100,
       "description": "Beats Studio3 Wireless Headphones with Pure Adaptive Noise Cancelling (Pure ANC).",
-      "category": "headPhones",
+      "category": "headPhone",
       "colors": [
         "Black",
         "Red",
@@ -876,7 +876,7 @@
       "name": "Sennheiser Momentum 3",
       "price": 450,
       "description": "Sennheiser Momentum 3 with NoiseGard Hybrid technology and great sound clarity.",
-      "category": "headPhones",
+      "category": "headPhone",
       "colors": [
         "Black"
       ],
@@ -993,7 +993,7 @@
       "name": "Nike Air Max 270",
       "price": 150,
       "description": "Nike Air Max 270 with responsive cushioning and bold, modern design.",
-      "category": "shoes",
+      "category": "shoe",
       "colors": [
         "Green",
         "Red"
@@ -1014,7 +1014,7 @@
       "name": "Adidas 22",
       "price": 180,
       "description": "Adidas 22 for maximum comfort and energy return with every step.",
-      "category": "shoes",
+      "category": "shoe",
       "colors": [
         "White",
         "Blue",
@@ -1037,7 +1037,7 @@
       "name": "Puma RS-X3",
       "price": 120,
       "description": "Puma RS-X3 sneakers, perfect blend of retro style and modern flair.",
-      "category": "shoes",
+      "category": "shoe",
       "colors": [
         "Red",
         "Black"
@@ -1058,7 +1058,7 @@
       "name": "Reebok Classic",
       "price": 90,
       "description": "Reebok Classic Leather with timeless design and comfortable fit.",
-      "category": "shoes",
+      "category": "shoe",
       "colors": [
         "Green",
         "Yellow"
@@ -1079,7 +1079,7 @@
       "name": "New Balance 990v5",
       "price": 105,
       "description": "New Balance 990v5, premium cushioning and support with an iconic design.",
-      "category": "shoes",
+      "category": "shoe",
       "colors": [
         "Blue",
         "Beige"
@@ -1104,7 +1104,7 @@
     },
     {
       "id": "29g6i9i2-8f89-6h15-9i0e-6j2f7266337211",
-      "title": "computers",
+      "title": "computer",
       "image": "https://i.ibb.co/WsVyW5N/computer.png"
     },
     {
@@ -1119,7 +1119,7 @@
     },
     {
       "id": "i7g6i45628f89-123jf-6j2f7j37211",
-      "title": "headPhones",
+      "title": "headPhone",
       "image": "https://i.ibb.co/n31mbmw/headPhone.png"
     },
     {
@@ -1134,7 +1134,7 @@
     },
     {
       "id": "i7g6hun28f89-123jf6j2f-02057222",
-      "title": "shoes",
+      "title": "shoe",
       "image": "https://i.ibb.co/ygqJ8Sj/shoes.png"
     }
   ],
