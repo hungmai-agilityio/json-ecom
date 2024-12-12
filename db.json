@@ -263,10 +263,10 @@
       "price": 350,
       "originalPrice": 400,
       "description": "Great mid-range phone with solid features for daily use.",
-      "category": "phones",
+      "category": "phone",
       "colors": [
         "Gray",
-        "Blue", 
+        "Blue",
         "Red"
       ],
       "sizes": [
