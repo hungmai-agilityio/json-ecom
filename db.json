@@ -59,7 +59,7 @@
       "name": "Smartphone 15",
       "price": 1100,
       "description": "A high-performance smartphone with an amazing camera.",
-      "category": "phones",
+      "category": "phone",
       "colors": [
         "Black",
         "Gray"
@@ -205,7 +205,7 @@
       "price": 255,
       "originalPrice": 300,
       "description": "Affordable smartphone with great camera and performance.",
-      "category": "phones",
+      "category": "phone",
       "colors": [
         "Black",
         "Blue"
@@ -234,7 +234,7 @@
       "price": 800,
       "originalPrice": 900,
       "description": "Flagship phone with top-of-the-line performance and display.",
-      "category": "phones",
+      "category": "phone",
       "colors": [
         "Black",
         "Gray"
@@ -263,7 +263,7 @@
       "price": 350,
       "originalPrice": 400,
       "description": "Great mid-range phone with solid features for daily use.",
-      "category": "phones",
+      "category": "phone",
       "colors": [
         "Gray",
         "Blue"
@@ -291,7 +291,7 @@
       "name": "Oppo-1",
       "price": 200,
       "description": "Budget smartphone with decent features for everyday tasks.",
-      "category": "phones",
+      "category": "phone",
       "colors": [
         "Black",
         "Yellow"
@@ -317,7 +317,7 @@
       "price": 280,
       "originalPrice": 350,
       "description": "Slightly upgraded model with better camera and display.",
-      "category": "phones",
+      "category": "phone",
       "colors": [
         "Yellow",
         "Black"
@@ -1099,7 +1099,7 @@
   "category": [
     {
       "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j37211",
-      "title": "phones",
+      "title": "phone",
       "image": "https://i.ibb.co/Z6f7PYW/cell-Phone.png"
     },
     {
