@@ -54,7 +54,29 @@
       "isNew": false,
       "discount": 15
     },
-
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6b5",
+      "name": "Smartphone 15 Pro max",
+      "price": 1100,
+      "description": "A high-performance smartphone with an amazing camera.",
+      "category": "phone",
+      "colors": [
+        "Black",
+        "Gray"
+      ],
+      "image": "https://i.ibb.co/k4xsRgP/phone-1-15-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/k4xsRgP/phone-1-15-11zon.webp",
+        "https://i.ibb.co/GdnG9pc/phone-2-14-11zon.webp",
+        "https://i.ibb.co/NxkDqQ7/phone-2-2-13-11zon.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 5000,
+      "stock": 1500,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": true
+    },
     {
       "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6b1",
       "name": "Wireless Gaming",
