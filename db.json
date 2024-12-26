@@ -1,6 +1,1101 @@
 {
   "products": [
-
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6f3",
+      "name": "Laptop Ultra 15",
+      "price": 1000,
+      "description": "Sleek and portable laptop with powerful specs.",
+      "category": "computer",
+      "colors": [
+        "Silver",
+        "Black"
+      ],
+      "image": "https://i.ibb.co/HXhLJqM/com-1-14-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/HXhLJqM/com-1-14-11zon.webp",
+        "https://i.ibb.co/HXhLJqM/com-1-14-11zon.webp",
+        "https://i.ibb.co/HXhLJqM/com-1-14-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 200,
+      "stock": 300,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": false
+    },
+    {
+      "id": "i7g0i-9i28f89-6h159i0e-6j2f7j33g6f3",
+      "name": "Shirt Classic",
+      "price": 25.50,
+      "originalPrice": 30,
+      "description": "Shirt classic, new products",
+      "category": "shirt",
+      "colors": [
+        "Red",
+        "Blue",
+        "Black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/VBzFQcf/t-shirt-9.webp",
+      "imageDetail": [
+        "https://i.ibb.co/VBzFQcf/t-shirt-9.webp",
+        "https://i.ibb.co/NCjqFwX/t-shirt-9-1.webp",
+        "https://i.ibb.co/Kyb0vzd/t-shirt-9-2.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 200,
+      "stock": 300,
+      "isFlashSale": true,
+      "bestSelling": false,
+      "isNew": false,
+      "discount": 15
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6b5",
+      "name": "Smartphone 15",
+      "price": 1100,
+      "description": "A high-performance smartphone with an amazing camera.",
+      "category": "phone",
+      "colors": [
+        "Black",
+        "Gray"
+      ],
+      "image": "https://i.ibb.co/k4xsRgP/phone-1-15-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/k4xsRgP/phone-1-15-11zon.webp",
+        "https://i.ibb.co/GdnG9pc/phone-2-14-11zon.webp",
+        "https://i.ibb.co/NxkDqQ7/phone-2-2-13-11zon.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 5000,
+      "stock": 1500,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": true
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6b1",
+      "name": "Wireless Gaming",
+      "price": 60,
+      "originalPrice": 80,
+      "description": "Ergonomic wireless mouse designed for gamers.",
+      "category": "gaming",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "image": "https://i.ibb.co/X7bpqWq/game-1-13-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/X7bpqWq/game-1-13-11zon.webp",
+        "https://i.ibb.co/zS7VZzV/game-2-9-11zon.webp",
+        "https://i.ibb.co/FWT9VrS/game-1-3-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 150,
+      "stock": 500,
+      "isFlashSale": true,
+      "bestSelling": false,
+      "isNew": false,
+      "discount": 25
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6c2",
+      "name": "4K LED monitors",
+      "price": 800,
+      "originalPrice": 1000,
+      "description": "Enjoy 4K streaming with a smart interface.",
+      "category": "computer",
+      "colors": [
+        "Black"
+      ],
+      "sizes": [
+        "27 inch",
+        "32 inch"
+      ],
+      "image": "https://i.ibb.co/PMmmLSJ/com-11-1-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/PMmmLSJ/com-11-1-11zon.webp",
+        "https://i.ibb.co/PMmmLSJ/com-11-1-11zon.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 120,
+      "stock": 100,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6c4",
+      "name": "Smartwatch Pro X",
+      "price": 300,
+      "description": "Premium smartwatch with fitness tracking and GPS.",
+      "category": "smartWatch",
+      "colors": [
+        "Black",
+        "Silver"
+      ],
+      "image": "https://i.ibb.co/59KjHTr/watch-1-2.webp",
+      "imageDetail": [
+        "https://i.ibb.co/59KjHTr/watch-1-2.webp",
+        "https://i.ibb.co/MZZkg70/watch.webp",
+        "https://i.ibb.co/MZZkg70/watch.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 220,
+      "stock": 400,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": true
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6a7",
+      "name": "Noise Cancelling Headphones",
+      "price": 150,
+      "description": "High-quality headphones with active noise cancellation.",
+      "category": "headPhone",
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "image": "https://i.ibb.co/J58RHyk/head-3.webp",
+      "imageDetail": [
+        "https://i.ibb.co/J58RHyk/head-3.webp",
+        "https://i.ibb.co/J58RHyk/head-3.webp",
+        "https://i.ibb.co/J58RHyk/head-3.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 200,
+      "stock": 1000,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6a8",
+      "name": "Action canon",
+      "price": 280,
+      "originalPrice": 350,
+      "description": "Action camera with 4K recording and waterproof features.",
+      "category": "camera",
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "image": "https://i.ibb.co/6yBRvCy/camera-3-19-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/6yBRvCy/camera-3-19-11zon.webp",
+        "https://i.ibb.co/6yBRvCy/camera-3-19-11zon.webp",
+        "https://i.ibb.co/6yBRvCy/camera-3-19-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 150,
+      "stock": 500,
+      "isFlashSale": true,
+      "bestSelling": false,
+      "isNew": false,
+      "discount": 20
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6d1",
+      "name": "Redmi Note 13",
+      "price": 255,
+      "originalPrice": 300,
+      "description": "Affordable smartphone with great camera and performance.",
+      "category": "phone",
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "sizes": [
+        "128 GB",
+        "256 GB"
+      ],
+      "image": "https://i.ibb.co/M5kSt7M/phone-4-2.webp",
+      "imageDetail": [
+        "https://i.ibb.co/M5kSt7M/phone-4-2.webp",
+        "https://i.ibb.co/M5kSt7M/phone-4-2.webp",
+        "https://i.ibb.co/K2yZXLX/phone-4-11-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 350,
+      "stock": 1200,
+      "isFlashSale": true,
+      "bestSelling": false,
+      "isNew": false,
+      "discount": 15
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6d2",
+      "name": "Samsung Note 24",
+      "price": 800,
+      "originalPrice": 900,
+      "description": "Flagship phone with top-of-the-line performance and display.",
+      "category": "phone",
+      "colors": [
+        "Black",
+        "Gray"
+      ],
+      "sizes": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "image": "https://i.ibb.co/HGkXptM/phone-3-2-12-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/HGkXptM/phone-3-2-12-11zon.webp",
+        "https://i.ibb.co/JHJXtfh/phone-3-4.webp",
+        "https://i.ibb.co/47v4FpB/phone-3.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 500,
+      "stock": 2000,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6d3",
+      "name": "Xiaomi Note 14T",
+      "price": 350,
+      "originalPrice": 400,
+      "description": "Great mid-range phone with solid features for daily use.",
+      "category": "phone",
+      "colors": [
+        "Gray",
+        "Blue",
+        "Red"
+      ],
+      "sizes": [
+        "128 GB",
+        "256 GB"
+      ],
+      "image": "https://i.ibb.co/zsMdNhg/phone-5-10-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/zsMdNhg/phone-5-10-11zon.webp",
+        "https://i.ibb.co/GHwDFbd/phone-5-2-9-11zon.webp",
+        "https://i.ibb.co/GHwDFbd/phone-5-2-9-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 150,
+      "stock": 1000,
+      "isFlashSale": true,
+      "bestSelling": false,
+      "isNew": false,
+      "discount": 10
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6d4",
+      "name": "Oppo-1",
+      "price": 200,
+      "description": "Budget smartphone with decent features for everyday tasks.",
+      "category": "phone",
+      "colors": [
+        "Black",
+        "Yellow"
+      ],
+      "sizes": [
+        "64 GB",
+        "128 GB"
+      ],
+      "image": "https://i.ibb.co/YbJYNwx/phone-6-8-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/YbJYNwx/phone-6-8-11zon.webp"
+      ],
+      "ratings": 3,
+      "reviewCount": 120,
+      "stock": 800,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6d5",
+      "name": "Oppo-2",
+      "price": 280,
+      "originalPrice": 350,
+      "description": "Slightly upgraded model with better camera and display.",
+      "category": "phone",
+      "colors": [
+        "Yellow",
+        "Black"
+      ],
+      "sizes": [
+        "128 GB",
+        "256 GB"
+      ],
+      "image": "https://i.ibb.co/LvSmRx5/phone-7-7-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/LvSmRx5/phone-7-7-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 220,
+      "stock": 1100,
+      "isFlashSale": true,
+      "bestSelling": false,
+      "isNew": false,
+      "discount": 20
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6d7",
+      "name": "Handheld Gaming PS5",
+      "price": 150,
+      "originalPrice": 180,
+      "description": "Compact and powerful gaming console for on-the-go gaming.",
+      "category": "gaming",
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "image": "https://i.ibb.co/JFsx2qP/game-3-24-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/JFsx2qP/game-3-24-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 400,
+      "stock": 500,
+      "isFlashSale": true,
+      "bestSelling": true,
+      "isNew": false,
+      "discount": 15
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6d8",
+      "name": "Handheld Gaming Console Z2",
+      "price": 200,
+      "originalPrice": 250,
+      "description": "Portable gaming console with a large screen and great battery life.",
+      "category": "gaming",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/X7bpqWq/game-1-13-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/X7bpqWq/game-1-13-11zon.webp",
+        "https://i.ibb.co/FWT9VrS/game-1-3-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 500,
+      "stock": 700,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6d9",
+      "name": "Handheld Gaming Console A3",
+      "price": 120,
+      "originalPrice": 150,
+      "description": "Affordable handheld gaming device for casual gamers.",
+      "category": "gaming",
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "image": "https://i.ibb.co/MD3dm6g/game-4-23-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/MD3dm6g/game-4-23-11zon.webp"
+      ],
+      "ratings": 3,
+      "reviewCount": 200,
+      "stock": 1000,
+      "isFlashSale": true,
+      "bestSelling": false,
+      "isNew": false,
+      "discount": 20
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6da",
+      "name": "Handheld Gaming Console G4",
+      "price": 250,
+      "originalPrice": 300,
+      "description": "High-end portable gaming console with 4K support.",
+      "category": "gaming",
+      "colors": [
+        "Black",
+        "White",
+        "Blue",
+        "Yellow"
+      ],
+      "image": "https://i.ibb.co/dJsY4bq/game-6-22-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/dJsY4bq/game-6-22-11zon.webp",
+        "https://i.ibb.co/dJsY4bq/game-6-22-11zon.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 600,
+      "stock": 500,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6db",
+      "name": "Final Fantasy XVI Disc",
+      "price": 30,
+      "description": "Epic role-playing game with amazing graphics and storyline.",
+      "category": "gaming",
+      "image": "https://i.ibb.co/x35YsFr/game-8-21-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/x35YsFr/game-8-21-11zon.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 800,
+      "stock": 1500,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dc",
+      "name": "Demon's Souls Disc",
+      "price": 50,
+      "description": "Challenging action role-playing game for hardcore gamers.",
+      "category": "gaming",
+      "image": "https://i.ibb.co/XbVg5Yx/game-7.webp",
+      "imageDetail": [
+        "https://i.ibb.co/XbVg5Yx/game-7.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 900,
+      "stock": 1200,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dd",
+      "name": "PS5 Console",
+      "price": 500,
+      "description": "The latest PlayStation console with 4K gaming capabilities.",
+      "category": "gaming",
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "image": "https://i.ibb.co/6B6pmvL/game-5.webp",
+      "imageDetail": [
+        "https://i.ibb.co/6B6pmvL/game-5.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 1500,
+      "stock": 1920,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": true
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6de",
+      "name": "PS4 Console",
+      "price": 350,
+      "description": "Classic PlayStation console with a large library of games.",
+      "category": "gaming",
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "image": "https://i.ibb.co/dfhjm1v/game-9-20-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/dfhjm1v/game-9-20-11zon.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 1300,
+      "stock": 596,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6df",
+      "name": "Canon EOS 5D Mark IV",
+      "price": 2500,
+      "description": "Professional DSLR camera with a full-frame sensor for stunning photography.",
+      "category": "camera",
+      "image": "https://i.ibb.co/NyJkq3v/camera-4-18-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/NyJkq3v/camera-4-18-11zon.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 1000,
+      "stock": 300,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dg",
+      "name": "Nikon D850",
+      "price": 2880,
+      "originalPrice": 3200,
+      "description": "High-resolution DSLR camera with excellent image quality and performance.",
+      "category": "camera",
+      "image": "https://i.ibb.co/3MhxLcC/camera-6-16-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/3MhxLcC/camera-6-16-11zon.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 800,
+      "stock": 500,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": false,
+      "discount": 10
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dh",
+      "name": "EOS R100",
+      "price": 2000,
+      "originalPrice": 2300,
+      "description": "Mirrorless camera with fast autofocus and 4K video recording capabilities.",
+      "category": "camera",
+      "image": "https://i.ibb.co/D7yr7Q0/camera-5-17-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/D7yr7Q0/camera-5-17-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 600,
+      "stock": 400,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": true
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6di",
+      "name": "Fujifilm X-T4",
+      "price": 800,
+      "description": "Compact mirrorless camera with exceptional color reproduction and 4K video.",
+      "category": "camera",
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "image": "https://i.ibb.co/kxjLbs5/camera-2.webp",
+      "imageDetail": [
+        "https://i.ibb.co/kxjLbs5/camera-2.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 500,
+      "stock": 350,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dj",
+      "name": "Gaming PC Pro X",
+      "price": 2000,
+      "description": "High-performance gaming PC with powerful graphics and processor for top-tier gaming experiences.",
+      "category": "computer",
+      "colors": [
+        "Black"
+      ],
+      "image": "https://i.ibb.co/RS9HNJL/com-5-7-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/RS9HNJL/com-5-7-11zon.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 600,
+      "stock": 150,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dk",
+      "name": "Desktop Workstation 2024",
+      "price": 1350,
+      "originalPrice": 1500,
+      "description": "Powerful workstation for professionals with a fast processor and ample RAM for heavy multitasking.",
+      "category": "computer",
+      "colors": [
+        "White"
+      ],
+      "image": "https://i.ibb.co/4TjFyqR/com-7-5-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/4TjFyqR/com-7-5-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 350,
+      "stock": 200,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": false,
+      "discount": 10
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dl",
+      "name": "Custom Build PC",
+      "price": 2200,
+      "originalPrice": 2500,
+      "description": "Custom-built PC designed for gamers and creators, equipped with the latest hardware.",
+      "category": "computer",
+      "colors": [
+        "Black"
+      ],
+      "image": "https://i.ibb.co/t2j8b7S/com-6-6-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/t2j8b7S/com-6-6-11zon.webp",
+        "https://i.ibb.co/t2j8b7S/com-6-6-11zon.webp",
+        "https://i.ibb.co/t2j8b7S/com-6-6-11zon.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 1200,
+      "stock": 100,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": true
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dm",
+      "name": "UltraWide Monitor 34",
+      "price": 600,
+      "description": "34-inch ultra-wide monitor with 144Hz refresh rate, ideal for gaming and multitasking.",
+      "category": "computer",
+      "colors": [
+        "Black"
+      ],
+      "sizes": [
+        "27 inch"
+      ],
+      "image": "https://i.ibb.co/RhhgFgY/com-10-2-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/RhhgFgY/com-10-2-11zon.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 500,
+      "stock": 150,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dn",
+      "name": "4K Gaming Monitor 27",
+      "price": 300,
+      "description": "27-inch 4K monitor with excellent color accuracy and fast response time, perfect for gaming.",
+      "category": "computer",
+      "colors": [
+        "Black"
+      ],
+      "sizes": [
+        "24 inch",
+        "27 inch"
+      ],
+      "image": "https://i.ibb.co/wgg02F0/com-4-8-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/wgg02F0/com-4-8-11zon.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 700,
+      "stock": 100,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": true
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6do",
+      "name": "Mechanical Gaming Keyboard",
+      "price": 120,
+      "description": "RGB mechanical gaming keyboard with responsive switches and customizable lighting.",
+      "category": "computer",
+      "colors": [
+        "Black"
+      ],
+      "image": "https://i.ibb.co/HXtghfL/com-3-10-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/HXtghfL/com-3-10-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 450,
+      "stock": 250,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dp",
+      "name": "Wireless Gaming Mouse",
+      "price": 50,
+      "description": "Wireless gaming mouse with customizable DPI and RGB lighting.",
+      "category": "computer",
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "image": "https://i.ibb.co/m0340Pw/com-9-3-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/m0340Pw/com-9-3-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 300,
+      "stock": 400,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": true
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dq",
+      "name": "Water Cooling System",
+      "price": 200,
+      "description": "High-performance water cooling system for keeping your gaming PC cool under load.",
+      "category": "computer",
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "image": "https://i.ibb.co/xYHRr59/com-2-11-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/xYHRr59/com-2-11-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 180,
+      "stock": 50,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7K33g6do",
+      "name": "Mechanical Gaming K90",
+      "price": 120,
+      "description": "RGB mechanical gaming keyboard with responsive switches and customizable lighting.",
+      "category": "computer",
+      "colors": [
+        "Black",
+        "Gray"
+      ],
+      "image": "https://i.ibb.co/2n0mqq2/com-8-4-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/2n0mqq2/com-8-4-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 450,
+      "stock": 250,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dr",
+      "name": "AirPods Pro 2nd Gen",
+      "price": 255,
+      "originalPrice": 300,
+      "description": "Apple AirPods Pro 2nd Gen with active noise cancellation and spatial audio.",
+      "category": "headPhone",
+      "colors": [
+        "White"
+      ],
+      "image": "https://i.ibb.co/s9HSRsk/head-6.webp",
+      "imageDetail": [
+        "https://i.ibb.co/s9HSRsk/head-6.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 1500,
+      "stock": 300,
+      "isFlashSale": true,
+      "bestSelling": true,
+      "isNew": false,
+      "discount": 15
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6ds",
+      "name": "Sony WH-1000XM5",
+      "price": 350,
+      "description": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones with exceptional sound quality.",
+      "category": "headPhone",
+      "colors": [
+        "Black",
+        "Silver"
+      ],
+      "image": "https://i.ibb.co/vDHFzTC/head-4.webp",
+      "imageDetail": [
+        "https://i.ibb.co/vDHFzTC/head-4.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 800,
+      "stock": 200,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dt",
+      "name": "Bose QuietComfort 45",
+      "price": 330,
+      "description": "Bose QuietComfort 45 with world-class noise cancellation and great sound quality.",
+      "category": "headPhone",
+      "colors": [
+        "Red",
+        "Blue"
+      ],
+      "image": "https://i.ibb.co/Jx5zGXk/head-1.webp",
+      "imageDetail": [
+        "https://i.ibb.co/Jx5zGXk/head-1.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 700,
+      "stock": 180,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6du",
+      "name": "Beats Studio3 Wireless",
+      "price": 100,
+      "description": "Beats Studio3 Wireless Headphones with Pure Adaptive Noise Cancelling (Pure ANC).",
+      "category": "headPhone",
+      "colors": [
+        "Black",
+        "Red",
+        "Blue"
+      ],
+      "image": "https://i.ibb.co/bJHN5Hf/head-2-5-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/bJHN5Hf/head-2-5-11zon.webp",
+        "https://i.ibb.co/bJHN5Hf/head-2-5-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 450,
+      "stock": 250,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dv",
+      "name": "Sennheiser Momentum 3",
+      "price": 450,
+      "description": "Sennheiser Momentum 3 with NoiseGard Hybrid technology and great sound clarity.",
+      "category": "headPhone",
+      "colors": [
+        "Black"
+      ],
+      "image": "https://i.ibb.co/yQ0s8FG/head-5-2-3-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/yQ0s8FG/head-5-2-3-11zon.webp",
+        "https://i.ibb.co/x8Pkmgk/head-5-4-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 600,
+      "stock": 220,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dx",
+      "name": "Apple Watch Series 8",
+      "price": 399,
+      "description": "Apple Watch Series 8 with advanced health sensors, GPS, and always-on display.",
+      "category": "smartWatch",
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "image": "https://i.ibb.co/4RYtWQ8/watch-3.webp",
+      "imageDetail": [
+        "https://i.ibb.co/4RYtWQ8/watch-3.webp",
+        "https://i.ibb.co/ZR9kyRt/watch-3-2.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 1200,
+      "stock": 500,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dy",
+      "name": "Samsung Galaxy Watch 5",
+      "price": 279,
+      "description": "Samsung Galaxy Watch 5 with health tracking, sleep monitoring, and a sleek design.",
+      "category": "smartWatch",
+      "colors": [
+        "White",
+        "Pink"
+      ],
+      "image": "https://i.ibb.co/Zcvn05C/watch-2-2-1-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/Zcvn05C/watch-2-2-1-11zon.webp",
+        "https://i.ibb.co/88NJsPt/watch-2-2-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 800,
+      "stock": 400,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": true
+    },
+    {
+      "id": "p8u9h2k1-7y99-2d18-3h77-8n7m9p11j5o2",
+      "name": "V-Neck T-Shirt",
+      "price": 21,
+      "description": "A stylish V-neck t-shirt for casual wear.",
+      "category": "shirt",
+      "colors": [
+        "Maroon",
+        "Navy"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "image": "https://i.ibb.co/gyK0K05/t-shirt-5.webp",
+      "imageDetail": [
+        "https://i.ibb.co/gyK0K05/t-shirt-5.webp"
+      ],
+      "ratings": 4,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": false,
+      "stock": 271
+    },
+    {
+      "id": "j2g5h7o1-4e11-8r34-2d75-3s4m6n92h6r2",
+      "name": "Oversized T-Shirt",
+      "price": 25,
+      "description": "Comfort meets style in this oversized fit.",
+      "category": "shirt",
+      "colors": [
+        "Gray",
+        "Beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "image": "https://i.ibb.co/PjPZxnP/t-shirt-6.webp",
+      "imageDetail": [
+        "https://i.ibb.co/PjPZxnP/t-shirt-6.webp",
+        "https://i.ibb.co/1K7FpzG/t-shirt-6-1.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 800,
+      "stock": 400,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6dz",
+      "name": "Nike Air Max 270",
+      "price": 150,
+      "description": "Nike Air Max 270 with responsive cushioning and bold, modern design.",
+      "category": "shoe",
+      "colors": [
+        "Green",
+        "Red"
+      ],
+      "image": "https://i.ibb.co/Yt9Y7Pm/shoes-1-12-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/Yt9Y7Pm/shoes-1-12-11zon.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 900,
+      "stock": 350,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6d0",
+      "name": "Adidas 22",
+      "price": 180,
+      "description": "Adidas 22 for maximum comfort and energy return with every step.",
+      "category": "shoe",
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "image": "https://i.ibb.co/YtWPSD5/shoes-2-2-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/YtWPSD5/shoes-2-2-11zon.webp",
+        "https://i.ibb.co/Z6jhRHV/shoes-3-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 700,
+      "stock": 250,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6d1",
+      "name": "Puma RS-X3",
+      "price": 120,
+      "description": "Puma RS-X3 sneakers, perfect blend of retro style and modern flair.",
+      "category": "shoe",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "image": "https://i.ibb.co/3zgRQFH/shoes-4-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/3zgRQFH/shoes-4-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 500,
+      "stock": 180,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6d2",
+      "name": "Reebok Classic",
+      "price": 90,
+      "description": "Reebok Classic Leather with timeless design and comfortable fit.",
+      "category": "shoe",
+      "colors": [
+        "Green",
+        "Yellow"
+      ],
+      "image": "https://i.ibb.co/23FR0JY/shoes-4-2-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/23FR0JY/shoes-4-2-11zon.webp"
+      ],
+      "ratings": 5,
+      "reviewCount": 300,
+      "stock": 200,
+      "isFlashSale": false,
+      "bestSelling": true,
+      "isNew": false
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6d3",
+      "name": "New Balance 990v5",
+      "price": 105,
+      "description": "New Balance 990v5, premium cushioning and support with an iconic design.",
+      "category": "shoe",
+      "colors": [
+        "Blue",
+        "Beige"
+      ],
+      "image": "https://i.ibb.co/vm2gtSL/shoes-2-11zon.webp",
+      "imageDetail": [
+        "https://i.ibb.co/vm2gtSL/shoes-2-11zon.webp"
+      ],
+      "ratings": 4,
+      "reviewCount": 600,
+      "stock": 220,
+      "isFlashSale": false,
+      "bestSelling": false,
+      "isNew": true
+    }
   ],
   "category": [
     {
